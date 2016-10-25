@@ -1,0 +1,30 @@
+/*html,
+body {
+    height: 100%;
+}
+
+.page-wrap {
+    min-height: 100%;
+    margin-bottom: -142px;
+}
+
+.page-wrap:after {
+    content: "";
+    display: block;
+}
+
+.footer,
+.page-wrap:after {
+    height: 142px;
+}
+*/
+
+.is-primary {
+    color: #00d1b2;
+}
+
+.slow-animated {
+    -webkit-animation-duration: 7s;
+    -webkit-animation-delay: 4s;
+    -webkit-animation-iteration-count: infinite;
+}
