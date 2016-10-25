@@ -1,5 +1,5 @@
 </section>
-        <section id="contact" class="section  notification is-primary">
+        <section id="contact" class="section  notification is-dark">
     <div class="container">
       <div class="heading">
         <h1 class="title">Contact Us</h1>

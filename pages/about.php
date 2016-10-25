@@ -1,4 +1,4 @@
-    <section id="about" class="section  notification is-primary">
+    <section id="about" class="section  notification is-info">
     <div class="container">
       <div class="heading">
         <h1 class="title">About</h1>

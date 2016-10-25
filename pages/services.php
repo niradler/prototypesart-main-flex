@@ -1,107 +1,65 @@
- <section id="services" class="section notification is-info">
+
+ <section id="services" class="section notification is-primary">
       <div class="container">
       <div class="heading">
         <h1 class="title">services</h1>
         <h2 class="subtitle">
-          A simple container to divide your page into <strong>sections</strong>, like the one you're currently reading
+          We provide wide range of services, from planing electronic PCB, to building a website. we specialise with new technologies and adapting the right technology for you.
         </h2>
+        <br>
       </div>
     </div>
     <div class="container">
   <div class="columns ">
 
   <div class="column">
-  <div class="card">
-  <div class="card-image">
-    <figure class="image is-4by3">
-      <img src="http://placehold.it/300x225" alt="">
-    </figure>
-  </div>
-  <div class="card-content">
-    <div class="media">
-      <div class="media-left">
-        <figure class="image is-32x32">
-          <img src="http://placehold.it/64x64" alt="Image">
-        </figure>
-      </div>
-      <div class="media-content">
-        <p class="title is-5">John Smith</p>
-        <p class="subtitle is-6">@johnsmith</p>
-      </div>
-    </div>
+<div class="content has-text-centered">
+<p class="">
+ <i class="fa fa-cloud fa-5x" aria-hidden="true"></i> 
+</p>
 
-    <div class="content">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Phasellus nec iaculis mauris. <a href="#">@bulmaio</a>.
-      <a href="#">#css</a> <a href="#">#responsive</a>
-      <br>
-      <small>11:09 PM - 1 Jan 2016</small>
-    </div>
-  </div>
+<h1><strong>Web</strong> Development</h1>
+<p> Design website with the latest technologies, responsive site with high search score. </p>
 </div>
 </div>
 
   <div class="column">
-<div class="card">
-  <div class="card-image">
-    <figure class="image is-4by3">
-      <img src="http://placehold.it/300x225" alt="">
-    </figure>
-  </div>
-  <div class="card-content">
-    <div class="media">
-      <div class="media-left">
-        <figure class="image is-32x32">
-          <img src="http://placehold.it/64x64" alt="Image">
-        </figure>
-      </div>
-      <div class="media-content">
-        <p class="title is-5">John Smith</p>
-        <p class="subtitle is-6">@johnsmith</p>
-      </div>
-    </div>
+<div class="content has-text-centered">
+<p class="">
+  <i class="fa fa-mobile-phone fa-5x" aria-hidden="true"></i>
+</p>
 
-    <div class="content">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Phasellus nec iaculis mauris. <a href="#">@bulmaio</a>.
-      <a href="#">#css</a> <a href="#">#responsive</a>
-      <br>
-      <small>11:09 PM - 1 Jan 2016</small>
-    </div>
-  </div>
+<h1><strong>Mobile</strong> Development</h1>
+<p> We develop native and hybrid application to android platform. </p>
 </div>
 </div>
 
-<div class="column">
-<div class="card">
-  <div class="card-image">
-    <figure class="image is-4by3">
-      <img src="http://placehold.it/300x225" alt="">
-    </figure>
-  </div>
-  <div class="card-content">
-    <div class="media">
-      <div class="media-left">
-        <figure class="image is-32x32">
-          <img src="http://placehold.it/64x64" alt="Image">
-        </figure>
-      </div>
-      <div class="media-content">
-        <p class="title is-5">John Smith</p>
-        <p class="subtitle is-6">@johnsmith</p>
-      </div>
-    </div>
+  <div class="column">
+<div class="content has-text-centered">
+<p class="has">
+  <i class="fa fa-laptop fa-5x" aria-hidden="true"></i>
+</p>
 
-    <div class="content">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Phasellus nec iaculis mauris. <a href="#">@bulmaio</a>.
-      <a href="#">#css</a> <a href="#">#responsive</a>
-      <br>
-      <small>11:09 PM - 1 Jan 2016</small>
-    </div>
-  </div>
+<h1><strong>Desktop</strong> Development</h1>
+<p> We specialise in building desktop tool and integrate with external API, providing an effective environment for businesses.</p>
 </div>
 </div>
+
+  <div class="column">
+<div class="content has-text-centered">
+<p class="">
+  <i class="fa fa-pencil fa-5x" aria-hidden="true"></i>
+</p>
+
+<h1><strong>Startup</strong> Consulting</h1>
+<p> After we have been involve in many startup life cycle, we have the experience to answer the bunch of question you are going to face as a young stratup.
+</div>
+ 
 </div>
 </div>
  </section>
+ <style type="text/css">
+   .fa-5x {
+  font-size: 10em !important;
+}
+ </style>

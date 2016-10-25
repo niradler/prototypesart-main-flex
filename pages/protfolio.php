@@ -1,4 +1,4 @@
-      <section id="protfolio" class="section  notification is-primary">
+      <section id="protfolio" class="section  notification is-warning">
     <div class="container">
       <div class="heading">
         <h1 class="title">Protfolio</h1>
