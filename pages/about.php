@@ -1,4 +1,4 @@
-    <section id="about" class="section  notification is-info">
+    <section id="about" class="section  notification is-dark">
     <div class="container">
 
       <div class="heading">
@@ -30,9 +30,29 @@
     </div>
 
     <div class="content">
-      <h3>Skills History </h3>
+      <br />
 
-  <p>dslkfjdskljflkdsjkl</p>
+      <p class="has-text-centered">
+        <a class="is-dark" href="mailto:prototypesart@gmail.com">
+<span class="icon is-medium">
+<i class="fa fa-google is-dark"></i>
+</span>
+</a>
+        <a class="" href="https://github.com/niradler">
+            <span class="icon is-medium">
+    <i class="fa fa-github"></i>
+  </span>
+        </a>
+
+        <a class="" href="https://www.facebook.com/adler55">
+            <span class="icon is-medium">
+    <i class="fa fa-facebook"></i>
+  </span>
+        </a>
+        <a class="" href="https://il.linkedin.com/in/niradler">
+            <span class="icon is-medium ">
+<i class="fa fa-linkedin"></i></span></a>
+      </p>
       <br>
       <small class="has-text-center">CEO</small>
     </div>
@@ -56,7 +76,7 @@
   <li>
     PHP – deep knowledge of the language including OOP design and working with databases (Laravel, Code ignitor, MySQL).
   </li>
-  <li> 
+  <li>
 Python – Working on small projects, main focus on security tools and networking with Flask (ex. working with Pyhook for creating key logger etc.)
   </li>
   <li>

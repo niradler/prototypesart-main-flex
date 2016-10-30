@@ -21,7 +21,7 @@
         <i class="fa fa-facebook"></i>
       </span>
             </a>
-     
+
         </div>
         <span class="nav-toggle">
     <span></span>
@@ -32,9 +32,9 @@
             <a class="nav-item title" href="#services">
       Services
     </a>
-            <a class="nav-item title" href="http://blog.prototypesart.com">
+            <!-- <a class="nav-item title" href="http://blog.prototypesart.com">
       Blog
-    </a>
+    </a> -->
             <a class="nav-item title" href="#contact">
       Contact
     </a>

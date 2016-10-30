@@ -1,6 +1,7 @@
 
- <section id="services" class="section notification is-primary">
-      <div class="container">
+<section id="services" class="hero is-primary is-fullheight">
+  <div class="hero-body">
+    <div class="container">
       <div class="heading">
         <h1 class="title">services</h1>
         <h2 class="subtitle">
@@ -8,14 +9,14 @@
         </h2>
         <br>
       </div>
-    </div>
+    
     <div class="container">
   <div class="columns ">
 
   <div class="column">
 <div class="content has-text-centered">
 <p class="">
- <i class="fa fa-cloud fa-5x" aria-hidden="true"></i> 
+ <i class="fa fa-cloud fa-5x" aria-hidden="true"></i>
 </p>
 
 <h1><strong>Web</strong> Development</h1>
@@ -54,7 +55,8 @@
 <h1><strong>Startup</strong> Consulting</h1>
 <p> After we have been involve in many startup life cycle, we have the experience to answer the bunch of question you are going to face as a young stratup.
 </div>
- 
+</div>
+</div>
 </div>
 </div>
  </section>
